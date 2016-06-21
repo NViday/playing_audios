@@ -1,6 +1,6 @@
 #playing_audios
 
 #Matlab code
-      read audio file names from a text file and play them 
-      
+      read audios' filename from a text file and play them 
+      example of reading text file line per line 
 
